@@ -50,9 +50,9 @@ namespace lab3_1
 
         static void Main(string[] args)
         {
-            const string strForHashFirst = "Hey World!";
-            const string strForHashSecond = "Hey world!";
-            const string strForHashThird = "Hey world!";
+            const string strForHashFirst = "Hi World!";
+            const string strForHashSecond = "How are you?";
+            const string strForHashThird = "I am fine";
 
             var md5ForStrFirst = ComputeHashMd5(Encoding.Unicode.GetBytes(strForHashFirst));
             var md5ForStrSecond = ComputeHashMd5(Encoding.Unicode.GetBytes(strForHashSecond));

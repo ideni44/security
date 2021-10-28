@@ -69,27 +69,29 @@ namespace lab3_3
             var hmacsha512str = HMAC.ComputeHMACSHA512(Encoding.UTF8.GetBytes(str), key);
             var hmacsha512str1 = HMAC.ComputeHMACSHA512(Encoding.UTF8.GetBytes(str1), key);
 
+            Console.WriteLine("------------------------------------------------------------------");
             Console.WriteLine("MD5 (HMAC)");
             Console.WriteLine();
 
             Console.WriteLine("First str hash: " + Convert.ToBase64String(hmacmd5str));
             Console.WriteLine("Second str hash: " + Convert.ToBase64String(hmacmd5str1));
 
-            Console.WriteLine();
+            Console.WriteLine("------------------------------------------------------------------");
             Console.WriteLine("SHA1 (HMAC)");
             Console.WriteLine();
 
             Console.WriteLine("First str hash: " + Convert.ToBase64String(hmacsha1str));
             Console.WriteLine("Second str hash: " + Convert.ToBase64String(hmacsha1str1));
 
-            Console.WriteLine();
+            Console.WriteLine("------------------------------------------------------------------");
             Console.WriteLine("SHA256 (HMAC)");
             Console.WriteLine();
+
 
             Console.WriteLine("First str hash: " + Convert.ToBase64String(hmacsha256str));
             Console.WriteLine("Second str hash: " + Convert.ToBase64String(hmacsha256str1));
 
-            Console.WriteLine();
+            Console.WriteLine("------------------------------------------------------------------");
             Console.WriteLine("SHA512 (HMAC)");
             Console.WriteLine();
 
