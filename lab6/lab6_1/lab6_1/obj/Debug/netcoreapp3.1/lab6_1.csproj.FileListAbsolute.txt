@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.exe
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.deps.json
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.runtimeconfig.json
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.dll
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\bin\Debug\netcoreapp3.1\lab6_1.pdb
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.dll
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.pdb
+C:\Users\Admin\Desktop\security\lab6\lab6_1\lab6_1\obj\Debug\netcoreapp3.1\lab6_1.genruntimeconfig.cache
